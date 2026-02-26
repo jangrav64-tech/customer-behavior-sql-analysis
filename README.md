@@ -112,6 +112,15 @@ Contains:
 
 Aggregation queries
 
+## 📊 Project Output
+
+### SQL Result
+![SQL Result](sql_result.png)
+
+### Chart Visualization
+![Chart](chart.png)
+
+
 Segmentation logic
 
 Window functions
