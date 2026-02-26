@@ -120,6 +120,12 @@ Aggregation queries
 ### Chart Visualization
 ![Chart](chart.png)
 
+## 📊 Dashboard Preview
+
+![Country Distribution](images/country_chart.png)
+![Engagement Segmentation](images/engagement_chart.png)
+![Login Frequency by Country](images/avg_login_chart.png)
+
 
 Segmentation logic
 
