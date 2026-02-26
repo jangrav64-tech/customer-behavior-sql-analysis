@@ -120,15 +120,5 @@ Aggregation queries
 ### Chart Visualization
 ![Chart](chart.png)
 
-## 📊 Dashboard Preview
-
-
-![Engagement Segmentation](images/engagement_chart.png)
-![Login Frequency by Country](images/avg_login_chart.png)
-
-
-Segmentation logic
-
-Window functions
-
-Ranking analysis
+![Engagement Chart](engagement_chart.png)
+![Average Login Chart](avg_login_chart.png)
