@@ -45,9 +45,12 @@ This approach ensures both **technical depth** and **business relevance**.
 ---
 
 ## 📊 Project Visualization
-## 🖥 Executive Dashboard (Click to Open Live)
 
-[![Executive Dashboard](dashboard.png)]([PASTE_YOUR_LOOKER_LINK_HERE](https://lookerstudio.google.com/reporting/5278ddb2-9b8a-4d2d-a904-a2684f4183cd))
+<h2>🖥 Executive Dashboard (Click to Open Live)</h2>
+
+<a href="https://lookerstudio.google.com/reporting/5278ddb2-9b8a-4d2d-a904-a2684f4183cd" target="_blank">
+  <img src="dashboard.png" alt="Executive Dashboard" width="800"/>
+</a>
 
 These visualizations represent the analytical output derived from SQL queries and help interpret customer engagement behavior effectively.
 
