@@ -41,9 +41,41 @@ The analysis was performed using:
 This approach ensures both **technical depth** and **business relevance**.
 
 ---
+---
 
+## 🖥 Executive Customer Engagement Dashboard
 
+An interactive Business Intelligence dashboard built using **Google Looker Studio** on top of structured SQL queries executed in BigQuery.
 
-These visualizations represent the analytical output derived from SQL queries and help interpret customer engagement behavior effectively.
+### 🔗 Live Interactive Dashboard  
+👉 Open in new tab (Right-click → Open link in new tab)
+
+https://lookerstudio.google.com/reporting/5278ddb2-9b8a-4d2d-a904-a2684f4183cd
+
+---
+
+### 📊 Dashboard Preview
+
+[![Executive Dashboard Preview](dashboard.png)](https://lookerstudio.google.com/reporting/5278ddb2-9b8a-4d2d-a904-a2684f4183cd)
+
+---
+
+### 📈 Key Dashboard Components
+
+- KPI Cards (Total Customers, Avg Login Frequency, Avg Membership Years)
+- Top 10 Countries by Customer Base
+- Engagement Segmentation (High / Medium / Low)
+- Country-Level Performance Table
+- Pivot Analysis (Country vs Engagement Level)
+- Ranking of Countries by Customer Contribution
+
+---
+
+### 🎯 Business Value Delivered
+
+- Identifies high-engagement customer segments
+- Detects low-engagement users for retention strategies
+- Highlights regional performance differences
+- Supports data-driven decision-making for growth strategy
 
 ---
